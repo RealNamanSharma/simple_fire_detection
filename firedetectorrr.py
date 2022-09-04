@@ -27,3 +27,4 @@ while True:
 #by naman3428
 #use f key to close cv2 window
 #before running this please open command prompt and type "pip install opencv-python"
+# ravi
