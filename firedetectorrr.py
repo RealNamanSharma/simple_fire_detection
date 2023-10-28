@@ -18,7 +18,7 @@ while True:
         asyncio.sleep(2)
         
 
-    cv2.imshow("NAAMAN COPYRIGHT HEHE", frame)
+    cv2.imshow("Camera", frame)
     
     if cv2.waitKey(1) & 0xFF == ord('f'):
         break
